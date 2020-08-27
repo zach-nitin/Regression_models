@@ -1,1 +1,1 @@
-You will find the different kinds of regression models here :D
+You will find the different kinds of regression models here 
